@@ -1,0 +1,1 @@
+I created a program which classifies infrared tomato images into three classes, by calculating NDVI values from colors of the images. Moreover by using deep learning technique tests the models accuracy
